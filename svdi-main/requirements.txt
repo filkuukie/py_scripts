@@ -1,0 +1,3 @@
+pyvda
+infi.systray
+Pillow
