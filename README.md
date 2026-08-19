@@ -4,7 +4,9 @@ My simple personal scripts written in Python.
 
 calendar.py - simple calendar
 
-webm_conv.py - Image converter from WEBP to png/jpg format.
+lumumba-menu.py - simple web scrapper showing actual menu for university restaurant on University of Lodz campus (Lumumby 14)
+
+webp_conv.py - Image converter from WEBP to png/jpg format.
 
 2137.py - 21:37 time notifier for desktop
 
